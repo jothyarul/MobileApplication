@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medical Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="topic">Medical Appoinment application : Enter your details to get an appointment</string>
+    <string name="emer">Emergency : 9876543210</string>
+    <string name="second">Enter the details to set appointment</string>
+
+</resources>
